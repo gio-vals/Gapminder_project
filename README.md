@@ -1,5 +1,12 @@
 # Gapminder Project
- This project involves the analysis and visualization of global population, fertility rate, and life expectancy data from various continents and countries over the years. In this project, we use Python with libraries such as pandas, numpy, matplotlib, seaborn, and imageio to analyze, visualize, and generate insights from the data.
+ This project involves the analysis and visualization of global population, fertility rate, and life expectancy data from various continents and countries over the years. 
+
+ ## Libraries
+  - pandas 
+  - numpy
+  - matplotlib
+  - seaborn
+  - imageio
 
 ## Overview
  The Project focuses on exploring and understanding trends in global population, fertility rate, and life expectancy data. The main steps of the project are as follows:
