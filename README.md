@@ -57,7 +57,7 @@ The project generates various visualizations that offer insights into global pop
 
 ## Visualization Example
 
-![image info](gifs\the_gif_dur02.gif)
+![image info](./gifs/the_gif_dur02.gif)
 
 
 
