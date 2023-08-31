@@ -35,10 +35,12 @@ pip install pandas numpy matplotlib seaborn imageio
 !pip install pandas numpy matplotlib seaborn imageio
 ``````
 
-3. Data Files: Place the provided data files in the appropriate directory, such as the 'data' folder.
+3. Data Files: The data are provided in the data folder and they include three csv and one xls file.
 
 
-4. Run the Code
+4. Run the Code 
+
+5. While running the code new csv files will be created in the data folder, as well as images and GIFs in the respective folders.
 
 
 
@@ -55,7 +57,7 @@ Directory Structure :
 The project generates various visualizations that offer insights into global population, fertility rate, and life expectancy trends. These visualizations include histograms, bar plots, scatter plots, and animated GIFs. Additionally, the project calculates summary statistics and analyzes the relationships between different variables.
 
 
-## Visualization Example
+## Visualization Example:
 
 ![image info](./gifs/the_gif_dur02.gif)
 
